@@ -16,7 +16,7 @@
 **Solo scope:** One looping train model, 5 interchangeable car interiors, simple passenger AI, single monster with IK-crawl animation. Light system = terror meter.  
 **Monetize:** Short ~45 min campaign, speed-run leaderboards, $4.99 price tag.  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Dread-Express`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/dread-express/projects)`  
 
 ### Current Sprint Checklist
@@ -49,7 +49,7 @@
 **Solo scope:** 5 unit types, 10 handcrafted missions, toon shader keeps art cheap.  
 **Monetize:** Premium single-player, $4.99  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Cardboard-Command`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/cardboard-command/projects)`  
 
 ### Current Sprint Checklist
@@ -82,7 +82,7 @@
 **Solo scope:** Grid-based dungeon editor, 6 hero types, 12 trap blueprints, offline simulation uses deterministic math—no server.  
 **Monetize:** Premium, no ads, $2.99  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Pocket-Overlord`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/pocket-overlord/projects)`  
 
 ### Current Sprint Checklist
@@ -113,7 +113,7 @@
 **Solo scope:** 30 diorama levels, no character animation—just sliding objects.  
 **Monetize:** $2.99 premium  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Photobomb`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/photobomb/projects)`  
 
 ### Current Sprint Checklist
@@ -146,7 +146,7 @@
 **Solo scope:** Low-poly spherical levels, 1 character controller, letters = text + simple shader event.  
 **Monetize:** Short premium experience, $3.99  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Starlight-Postman`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/starlight-postman/projects)`  
 
 ### Current Sprint Checklist
@@ -177,7 +177,7 @@
 **Solo scope:** 8×8 grid, 10 enemy types, procedural rooms. Pure code + pixel art.  
 **Monetize:** $4.99 premium  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Ctrl-Z-Rogue`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/ctrl-z-rogue/projects)`  
 
 ### Current Sprint Checklist
@@ -209,7 +209,7 @@
 **Solo scope:** One forge minigame, one oven minigame, random sword generator, price haggling UI.  
 **Monetize:** $3.99 premium  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Slice-and-Sell`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/slice-and-sell/projects)`  
 
 ### Current Sprint Checklist
@@ -240,7 +240,7 @@
 **Solo scope:** 2D top-down, circles & rectangles for cars, procedural honk SFX.  
 **Monetize:** Free + ads or $0.99 premium  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Traffic-Therapist`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/traffic-therapist/projects)`  
 
 ### Current Sprint Checklist
@@ -273,7 +273,7 @@
 **Solo scope:** Fake OS UI, typing API, shader-based glitches, 30 min story.  
 **Monetize:** $2.99 premium  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Ghostwriter`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/ghostwriter/projects)`  
 
 ### Current Sprint Checklist
@@ -304,7 +304,7 @@
 **Solo scope:** Terrain mesh slicing, particle clippings, chill lo-fi soundtrack.  
 **Monetize:** $3.99 premium  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Lawn-Mow-Paradise`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/lawn-mow-paradise/projects)`  
 
 ### Current Sprint Checklist
@@ -335,7 +335,7 @@
 **Solo scope:** 40 levels, yarn physics = simple verlet ropes, pastel palette = cheap art.  
 **Monetize:** $2.99 premium  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Zero-G-Knitter`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/zero-g-knitter/projects)`  
 
 ### Current Sprint Checklist
@@ -364,7 +364,7 @@
 **Solo scope:** UI-driven, ingredient icons, 10 endings, 1 background dorm room.  
 **Monetize:** $1.99 premium  
 
-**Play (when out):** `https://store.steampowered.com/app/_________/Budget-Ritual`  
+**Play (when out):** `Coming Soon`  
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/budget-ritual/projects)`  
 
 ### Current Sprint Checklist
