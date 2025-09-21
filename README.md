@@ -20,7 +20,7 @@
 **Road-map:** https://github.com/urmoit/dread-express/blob/main/ROADMAP.md  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [x] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Core loop prototype (train moves, monster crawls)  
 - [ ] 1 finished passenger car greybox  
@@ -53,7 +53,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/cardboard-command/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Bedroom floor greybox  
 - [ ] Toy tank & infantry cardboard rigs  
@@ -86,7 +86,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/pocket-overlord/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Dungeon grid editor functional  
 - [ ] 6 hero types with basic AI  
@@ -117,7 +117,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/photobomb/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Time-rewind mechanic prototyped  
 - [ ] 1 diorama level art-complete  
@@ -150,7 +150,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/starlight-postman/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Tiny planet gravity controller  
 - [ ] Letter-reading triggers environment change  
@@ -181,7 +181,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/ctrl-z-rogue/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Turn recording system  
 - [ ] Undo-length tied to HP  
@@ -213,7 +213,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/slice-and-sell/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Forge minigame (melt swords)  
 - [ ] Oven minigame (bake bread)  
@@ -244,7 +244,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/traffic-therapist/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 mobile project + `.gitignore`  
 - [ ] 4-way intersection simulation  
 - [ ] Drag-speech-bubble controls  
@@ -277,7 +277,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/ghostwriter/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Fake Win97 UI built  
 - [ ] Typing detection & typo tracking  
@@ -308,7 +308,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/lawn-mow-paradise/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Terrain mesh slicing system  
 - [ ] Grass particle effects  
@@ -339,7 +339,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/zero-g-knitter/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Verlet rope physics for yarn  
 - [ ] 3-D tangram puzzle grid  
@@ -368,7 +368,7 @@
 **Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/budget-ritual/projects)`  
 
 ### Current Sprint Checklist
-- [ ] Repo folder created  
+- [ ] Repo created  
 - [ ] UE5 project + `.gitignore`  
 - [ ] Dorm room background  
 - [ ] Ingredient substitution system  
