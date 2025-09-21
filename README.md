@@ -1,7 +1,7 @@
 # Solo-Dev Game-Ideas Tracker  
 **Engine of choice:** Unreal Engine 5  
 
-[🔗 Open this file as markmap](https://markmap.js.org/repl?content=https://raw.githubusercontent.com/YOUR_NAME/YOUR_REPO/main/README.md)
+[🔗 Open this file as markmap](https://urmoit.github.io/game-project-ideas)
 
 ---
 
