@@ -1,14 +1,14 @@
 # Solo-Dev Game-Ideas Tracker  
 **Engine of choice:** Unreal Engine 5  
 
-Pick an idea, fill the blanks, tick the boxes, ship the game.
+[🔗 Open this file as markmap](https://markmap.js.org/repl?content=https://raw.githubusercontent.com/YOUR_NAME/YOUR_REPO/main/README.md)
 
 ---
 
-## 1. Dread Express  
+## 1. Dread Express
 **Folder:** `/dread-express`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Linux / Mac (Steam Deck later)  
+**Target platform:** Windows only  
 **Estimated scope:** 3 months  
 
 **Genre:** Micro-horror, train-management sim  
@@ -38,10 +38,10 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 
 ---
 
-## 2. Cardboard Command  
+## 2. Cardboard Command
 **Folder:** `/cardboard-command`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Linux / Mac  
+**Target platform:** Windows only  
 **Estimated scope:** 2.5 months  
 
 **Genre:** Real-time tactics, kids-at-play aesthetic  
@@ -71,10 +71,10 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 
 ---
 
-## 3. Pocket Overlord  
+## 3. Pocket Overlord
 **Folder:** `/pocket-overlord`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Android / iOS + Win (Steam later)  
+**Target platform:** Windows only  
 **Estimated scope:** 4 months  
 
 **Genre:** Idle + Tower Defense  
@@ -87,27 +87,25 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 
 ### Current Sprint Checklist
 - [ ] Repo folder created  
-- [ ] UE5 mobile project + `.gitignore`  
+- [ ] UE5 project + `.gitignore`  
 - [ ] Dungeon grid editor functional  
 - [ ] 6 hero types with basic AI  
 - [ ] 12 trap blueprints coded  
 - [ ] Offline simulation math verified  
-- [ ] Mobile UI / touch controls  
 - [ ] Meta-progression (new traps, cosmetics)  
 - [ ] Balanced idle income curve  
 
 ### Future Plans Checklist
-- [ ] Steam & mobile sync saves  
-- [ ] Store pages + screenshots  
+- [ ] Steam page + screenshots  
 - [ ] Launch trailer  
-- [ ] Game shipped on Steam / mobile  
+- [ ] Game shipped on Steam  
 
 ---
 
-## 4. Photobomb  
+## 4. Photobomb  ← PUZZLE →  Android & Windows
 **Folder:** `/photobomb`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Mac / Linux  
+**Target platform:** Android & Windows  
 **Estimated scope:** 1.5 months  
 
 **Genre:** Cozy puzzler  
@@ -128,17 +126,19 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 - [ ] 30 levels designed & scripted  
 - [ ] Achievements for perfect shots  
 - [ ] Chill lo-fi soundtrack  
+- [ ] Mobile UI / touch controls  
 
 ### Future Plans Checklist
+- [ ] Google Play listing  
 - [ ] Steam page + trailer  
-- [ ] Game shipped on Steam  
+- [ ] Game shipped on Android & Steam  
 
 ---
 
-## 5. Starlight Postman  
+## 5. Starlight Postman
 **Folder:** `/starlight-postman`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Mac / Linux  
+**Target platform:** Windows only  
 **Estimated scope:** 2 months  
 
 **Genre:** Exploration + narrative  
@@ -166,10 +166,10 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 
 ---
 
-## 6. Ctrl-Z Rogue  
+## 6. Ctrl-Z Rogue
 **Folder:** `/ctrl-z-rogue`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Linux / Mac  
+**Target platform:** Windows only  
 **Estimated scope:** 3 months  
 
 **Genre:** Turn-based rogue-lite  
@@ -198,13 +198,13 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 
 ---
 
-## 7. Slice & Sell  
+## 7. Slice & Sell
 **Folder:** `/slice-and-sell`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Linux (VR optional)  
+**Target platform:** Windows only  
 **Estimated scope:** 2 months  
 
-**Genre:** VR optional tycoon  
+**Genre:** VR-optional tycoon  
 **Hook:** Run a dark-ages sword shop: melt loot dropped by adventurers, bake it into “mystic bread” that gives stat boosts, sell back to same adventurers next run.  
 **Solo scope:** One forge minigame, one oven minigame, random sword generator, price haggling UI.  
 **Monetize:** $3.99 premium  
@@ -229,10 +229,10 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 
 ---
 
-## 8. Traffic Therapist  
+## 8. Traffic Therapist  ← PUZZLE →  Android & Windows
 **Folder:** `/traffic-therapist`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Android / iOS + Win (Steam later)  
+**Target platform:** Android & Windows  
 **Estimated scope:** 1 month  
 
 **Genre:** Minimal puzzle  
@@ -252,18 +252,20 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 - [ ] 30 handcrafted levels  
 - [ ] Endless mode with leaderboards  
 - [ ] Polished honk SFX  
+- [ ] Mobile UI / touch controls  
 
 ### Future Plans Checklist
+- [ ] Google Play listing  
 - [ ] Mobile ad SDK / premium toggle  
-- [ ] Store assets ready  
-- [ ] Game shipped on Steam / mobile  
+- [ ] Steam page + screenshots  
+- [ ] Game shipped on Android & Steam  
 
 ---
 
 ## 9. Ghostwriter
 **Folder:** `/ghostwriter`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Mac / Linux  
+**Target platform:** Windows only  
 **Estimated scope:** 1 month  
 
 **Genre:** Typing horror  
@@ -294,7 +296,7 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 ## 10. Lawn Mow Paradise
 **Folder:** `/lawn-mow-paradise`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Mac / Linux  
+**Target platform:** Windows only  
 **Estimated scope:** 2 months  
 
 **Genre:** Satisfying sim  
@@ -325,7 +327,7 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 ## 11. Zero-G Knitter
 **Folder:** `/zero-g-knitter`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Mac / Linux  
+**Target platform:** Windows only  
 **Estimated scope:** 1.5 months  
 
 **Genre:** Cozy 3-D tangram  
@@ -354,7 +356,7 @@ Pick an idea, fill the blanks, tick the boxes, ship the game.
 ## 12. Budget Ritual
 **Folder:** `/budget-ritual`  
 **Engine:** Unreal Engine 5  
-**Target platform:** Win / Mac / Linux  
+**Target platform:** Windows only  
 **Estimated scope:** 1 month  
 
 **Genre:** Resource-management satire  
