@@ -6,7 +6,7 @@
 ---
 
 ## 1. Dread Express
-**Folder:** `/dread-express`  
+**Repo:** https://github.com/urmoit/dread-express  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 3 months  
@@ -17,7 +17,7 @@
 **Monetize:** Short ~45 min campaign, speed-run leaderboards, $4.99 price tag.  
 
 **Play (when out):** `Coming Soon`  
-**Road-map:** `[GitHub Projects](https://github.com/YOUR_NAME/dread-express/projects)`  
+**Road-map:** https://github.com/urmoit/dread-express/blob/main/ROADMAP.md  
 
 ### Current Sprint Checklist
 - [ ] Repo folder created  
@@ -39,7 +39,7 @@
 ---
 
 ## 2. Cardboard Command
-**Folder:** `/cardboard-command`  
+**Repo:** `/cardboard-command`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 2.5 months  
@@ -72,7 +72,7 @@
 ---
 
 ## 3. Pocket Overlord
-**Folder:** `/pocket-overlord`  
+**Repo:** `/pocket-overlord`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 4 months  
@@ -103,7 +103,7 @@
 ---
 
 ## 4. Photobomb  ← PUZZLE →  Android & Windows
-**Folder:** `/photobomb`  
+**Repo:** `/photobomb`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Android & Windows  
 **Estimated scope:** 1.5 months  
@@ -136,7 +136,7 @@
 ---
 
 ## 5. Starlight Postman
-**Folder:** `/starlight-postman`  
+**Repo:** `/starlight-postman`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 2 months  
@@ -167,7 +167,7 @@
 ---
 
 ## 6. Ctrl-Z Rogue
-**Folder:** `/ctrl-z-rogue`  
+**Repo:** `/ctrl-z-rogue`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 3 months  
@@ -199,7 +199,7 @@
 ---
 
 ## 7. Slice & Sell
-**Folder:** `/slice-and-sell`  
+**Repo:** `/slice-and-sell`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 2 months  
@@ -230,7 +230,7 @@
 ---
 
 ## 8. Traffic Therapist  ← PUZZLE →  Android & Windows
-**Folder:** `/traffic-therapist`  
+**Repo:** `/traffic-therapist`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Android & Windows  
 **Estimated scope:** 1 month  
@@ -263,7 +263,7 @@
 ---
 
 ## 9. Ghostwriter
-**Folder:** `/ghostwriter`  
+**Repo:** `/ghostwriter`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 1 month  
@@ -294,7 +294,7 @@
 ---
 
 ## 10. Lawn Mow Paradise
-**Folder:** `/lawn-mow-paradise`  
+**Repo:** `/lawn-mow-paradise`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 2 months  
@@ -325,7 +325,7 @@
 ---
 
 ## 11. Zero-G Knitter
-**Folder:** `/zero-g-knitter`  
+**Repo:** `/zero-g-knitter`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 1.5 months  
@@ -354,7 +354,7 @@
 ---
 
 ## 12. Budget Ritual
-**Folder:** `/budget-ritual`  
+**Repo:** `/budget-ritual`  
 **Engine:** Unreal Engine 5  
 **Target platform:** Windows only  
 **Estimated scope:** 1 month  
